@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">Login Screen</string>
+<string name="Teks_Login">Log In</string>
+
+<string name="username1">Masukkan Username</string>
+<string name="password1">Masukkan Password</string>
+
+<string name="username2">Username: </string>
+<string name="password2">Password: </string>
+<string name="Forgot_Password">Forgot Password ?</string>
+
+</resources>
